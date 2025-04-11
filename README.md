@@ -6,7 +6,7 @@ Este projeto é um **template de site institucional** para um restaurante tradic
 
 ## 📸 Preview
 
-<img src="https://imgur.com/a/SgfXggx" alt="Preview do site" width="100%"/>
+![Preview do site](https://imgur.com/a/SgfXggx)
 
 ---
 
